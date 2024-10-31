@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .admin-no-war-flags{
+	 float:left;
+	 margin-right:20px;
+	 margin-bottom:20px;
+ }
